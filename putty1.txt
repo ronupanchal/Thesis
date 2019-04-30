@@ -1,0 +1,2 @@
+103.102.234.109
+java -Xmx1200M -jar fuseki-server.jar --loc=DBAISHE /aishephd
